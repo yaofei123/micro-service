@@ -8,7 +8,7 @@ import java.security.PrivilegedActionException;
 
 /**
  * @Description 资源检查异常
- * @Author cuiyaosheng
+ * @author
  * @Date 2017-12-23 10:32
  * @Modified by:
  **/

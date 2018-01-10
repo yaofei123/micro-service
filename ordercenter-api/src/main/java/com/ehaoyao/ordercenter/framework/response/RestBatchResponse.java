@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * @Description RESTful - API 批量处理响应
- * @Author cuiyaosheng
+ * @author
  * @Date 2017-12-23 10:32
  * @Modified by:
  **/

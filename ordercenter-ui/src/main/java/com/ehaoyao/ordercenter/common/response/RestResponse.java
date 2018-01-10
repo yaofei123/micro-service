@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  * @Description RESTful - API 响应定义
- * @Author cuiyaosheng
+ * @author
  * @Date 2017-12-23 10:32
  * @Modified by:
  **/

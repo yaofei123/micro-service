@@ -6,7 +6,7 @@ package com.ehaoyao.ordercenter.framework.exception;
 
 /**
  * @Description 数据访问异常
- * @Author cuiyaosheng
+ * @author
  * @Date 2017-12-23 10:32
  * @Modified by:
  **/

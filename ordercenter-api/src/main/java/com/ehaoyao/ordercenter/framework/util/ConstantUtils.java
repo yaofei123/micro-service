@@ -4,7 +4,7 @@
 package com.ehaoyao.ordercenter.framework.util;
 /**
  * @Description 常量定义
- * @author cuiyaosheng
+ * @author
  * @Date 2017-12-23 10:32
  * @Modified by:
  **/

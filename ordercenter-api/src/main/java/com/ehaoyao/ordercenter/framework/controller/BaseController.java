@@ -23,7 +23,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * @Description 抽象Controller
- * @Author cuiyaosheng
+ * @author
  * @Date 2017-12-23 10:32
  * @Modified by:
  **/

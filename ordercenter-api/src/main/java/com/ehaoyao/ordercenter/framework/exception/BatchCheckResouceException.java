@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  * @Description 批量处理异常
- * @Author cuiyaosheng
+ * @author
  * @Date 2017-12-23 10:32
  * @Modified by:
  **/

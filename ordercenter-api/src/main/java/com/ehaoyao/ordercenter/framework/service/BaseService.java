@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  * @Description 抽象Base服务
- * @Author cuiyaosheng
+ * @author
  * @Date 2017-12-23 10:32
  * @Modified by:
  **/

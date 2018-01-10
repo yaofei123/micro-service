@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * @Description 抽象BaseMapper
- * @Author cuiyaosheng
+ * @author
  * @Date 2017-12-23 10:32
  * @Modified by:
  **/

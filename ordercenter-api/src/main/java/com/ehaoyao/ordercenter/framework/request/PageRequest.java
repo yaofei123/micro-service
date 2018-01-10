@@ -7,7 +7,7 @@ import java.io.Serializable;
 
 /**
  * @Description RESTful - 请求值对象
- * @Author cuiyaosheng
+ * @author
  * @Date 2017-12-23 10:32
  * @Modified by:
  **/

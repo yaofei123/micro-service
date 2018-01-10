@@ -16,7 +16,7 @@ import java.util.Map;
 
 /**
  * @Description 单个函数进行熔断
- * @Author cuiyaosheng
+ * @author
  * @Date 2017-12-25 14:27
  * @Modified by:
  **/
