@@ -3,18 +3,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.ehaoyao.ordercenter</groupId>
-    <artifactId>microservice-app</artifactId>
+    <groupId>com.ehaoyao</groupId>
+    <artifactId>ucenter</artifactId>
     <version>1.0.0.RELEASE</version>
     <packaging>pom</packaging>
 
-    <name>microservice-app</name>
+    <name>ucenter</name>
 
     <modules>
-        <module>ordercenter-api</module>
-        <module>ordercenter-ui</module>
-        <module>ordercenter-job</module>
-        <module>mybatis-pageplugin</module>
+        <module>ucenter-api</module>
+        <module>ucenter-ui</module>
+        <module>ucenter-job</module>
     </modules>
 
     <properties>
